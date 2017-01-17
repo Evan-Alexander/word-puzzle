@@ -6,7 +6,7 @@ vowels.fill("-");
 
 
 
-// var vowelsForDashes = [];
-// vowels.forEach(function() {
-//   vowelsForDashes.
-// });
+var vowelsForDashes = ["Believe you can and you're halfway there. Theodore Roosevelt"];
+vowels.fill(function("-") {
+  vowelsForDashes.
+});
